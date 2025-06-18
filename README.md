@@ -2,7 +2,7 @@
 
 🎓 Informatics Student | 💻 Machine Learning & Cloud Enthusiast  
 🔭 Currently working on real-world data analysis and cloud-based ML projects  
-🌱 Exploring TensorFlow, Google Cloud, and Cybersecurity
+🌱 Exploring TensorFlow, Google Cloud.
 
 ---
 
