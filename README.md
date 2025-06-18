@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey 👋, I'm Mansur Gayo
 
-<!--
-**Mansurgayo/mansurgayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+🌱 I'm currently learning:
+- Machine Learning with Python
+- Cloud Computing on Google Cloud Platform
+- Data Analysis & Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/mansurgayo/)
+- [GitHub](https://github.com/mansurgayo)
+
+---
+
+## 🧠 Some of my GitHub Stats
+
+![Mansur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansurgayo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansurgayo&layout=compact&theme=tokyonight)
