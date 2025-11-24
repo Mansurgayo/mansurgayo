@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-🎓 Informatics Student | 💻 Machine Learning & Cloud Enthusiast  
+🎓 Information system Student | 💻 Machine Learning & Cloud Enthusiast  
 🔭 Currently working on real-world data analysis and cloud-based ML projects  
 🌱 Exploring TensorFlow, Google Cloud.
 
