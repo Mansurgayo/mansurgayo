@@ -1,62 +1,45 @@
-# 👋 Hi, I'm Mansur
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Information+Systems+Graduate+🎓;Machine+Learning+Enthusiast+🤖;Data+%26+AI+Explorer+📊;Cloud+Computing+Enthusiast+☁️;Building+Real-World+Projects+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mansur&fontSize=70&fontAlignY=35&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mansurgayo&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Mansurgayo?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Information+Systems+Graduate+🎓;Machine+Learning+Enthusiast+🤖;Data+%26+AI+Explorer+📊;Cloud+Computing+Enthusiast+☁️;Building+Real-World+Projects+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mansurgayo">
+    <img src="https://img.shields.io/github/followers/Mansurgayo?style=for-the-badge&label=Followers&color=0e75b6" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mansurgayo&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 **Information Systems Graduate** passionate about technology and intelligent systems.
+```text
+🎓 Information Systems Graduate
+🤖 Machine Learning & AI Enthusiast
+📊 Data Science Explorer
+☁️ Cloud Computing Enthusiast
+💻 Full-Stack Developer
+🚀 Building real-world technology solutions
+```
 
-🤖 Exploring **Machine Learning, Artificial Intelligence, and Data Science**.
+Currently exploring:
 
-☁️ Learning and building projects with **Cloud Computing & modern web technologies**.
-
-💻 I enjoy turning ideas into **real-world applications** using data and AI.
-
-🔭 Currently exploring **TensorFlow, Google Cloud, Python, and Machine Learning**.
-
-🌱 Always learning. Always building. Always improving. 🚀
+* 🧠 Machine Learning & Artificial Intelligence
+* 📊 Data Analysis & Data Science
+* ☁️ Google Cloud
+* 🔥 TensorFlow & PyTorch
+* 🌐 Modern Web Development
 
 ---
 
-## 🧠 Tech Stack
-
-### 💻 Programming & Data
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,express" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,vercel" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs,nodejs,express,flask,tensorflow,pytorch,sklearn,gcp,docker,git,github,mysql,postgresql,supabase,vscode,jupyter&perline=8" />
 </p>
 
 ---
@@ -64,13 +47,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mansurgayo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansurgayo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mansurgayo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansurgayo&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mansurgayo&theme=tokyonight&hide_border=true" />
@@ -78,15 +61,15 @@
 
 ---
 
-## 🐍 Contribution Animation
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mansurgayo/Mansurgayo/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Mansurgayo/Mansurgayo/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansurgayo&theme=tokyo-night&hide_border=true&area=true" />
@@ -94,58 +77,45 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Building
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🤖 Machine Learning
+### 🤖 AI & Machine Learning
 
-Building predictive and classification models using Python, Scikit-Learn, TensorFlow, and PyTorch.
+Developing intelligent models for classification, prediction, and real-world data problems.
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 📊 Data Analytics
+### 📊 Data Science
 
-Exploring datasets through EDA, visualization, statistical analysis, and machine learning.
+Turning raw data into meaningful insights through analysis and visualization.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🌐 AI Web Applications
 
-Developing intelligent web applications that combine modern frontend, backend, and ML technologies.
+Combining machine learning with modern web technologies.
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### ☁️ Cloud Projects
+### ☁️ Cloud Computing
 
-Exploring cloud deployment, APIs, containers, and scalable ML applications.
+Exploring scalable applications, APIs, containers, and cloud infrastructure.
 
 </td>
 </tr>
 </table>
-
----
-
-## 🎯 Current Focus
-
-```text
-🤖 Artificial Intelligence
-🧠 Machine Learning
-📊 Data Science
-☁️ Cloud Computing
-🌐 Full-Stack Development
-🚀 Real-World AI Applications
-```
 
 ---
 
@@ -160,12 +130,10 @@ Exploring cloud deployment, APIs, containers, and scalable ML applications.
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
 
 <p align="center">
-  <b>✨ Building the future with data, AI & technology ✨</b>
+  <b>✨ Learn • Build • Deploy • Repeat ✨</b>
 </p>
