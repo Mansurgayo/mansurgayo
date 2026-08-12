@@ -4,11 +4,8 @@
 
 <!-- ================================ -->
 
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Mansurgayo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mansurgayo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=MANSUR&fontSize=65&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Information%20Systems%20%7C%20AI%20%7C%20Machine%20Learning%20%7C%20Cloud&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
